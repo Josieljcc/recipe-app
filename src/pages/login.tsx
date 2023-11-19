@@ -5,7 +5,6 @@ import {
   TouchableOpacity,
   View,
 } from "react-native";
-import Input from "../components/input/input";
 import { useForm } from "react-hook-form";
 import { z } from "zod";
 import { zodResolver } from "@hookform/resolvers/zod";
